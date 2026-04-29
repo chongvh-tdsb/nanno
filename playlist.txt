@@ -3,9 +3,9 @@
 http://yourdomain.com/info.ts
 #EXTINF:-1 tvg-logo="https://da.gd/starlogo" group-title="Account Info", Expiry Date: 2061-03-24 23:59:00
 http://yourdomain.com/info.ts
-#EXTINF:-1 tvg-logo="https://da.gd/starlogo" group-title="Account Info", Days Left: 12748
+#EXTINF:-1 tvg-logo="https://da.gd/starlogo" group-title="Account Info", Days Left: 12747
 http://yourdomain.com/info.ts
-#EXTINF:-1 tvg-logo="https://da.gd/starlogo" group-title="Account Info", Last Reload: 2026-04-29 15:53:16
+#EXTINF:-1 tvg-logo="https://da.gd/starlogo" group-title="Account Info", Last Reload: 2026-04-29 15:58:57
 http://yourdomain.com/info.ts
 #EXTINF:-1 tvg-logo="https://da.gd/starlogo" group-title="Account Info", Devices: 313/1000
 http://yourdomain.com/info.ts
