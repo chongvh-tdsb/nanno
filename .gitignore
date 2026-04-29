@@ -1,0 +1,4 @@
+/.venv
+/download_playlist.py
+/playlist_headers.txt
+/__pycache__
