@@ -1,4 +1,5 @@
-/.venv
+bay/.venv
 /download_playlist.py
 /playlist_headers.txt
 /__pycache__
+run_download_playlist.bat
