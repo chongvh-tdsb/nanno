@@ -4,3 +4,4 @@ bay/.venv
 /__pycache__
 run_download_playlist.bat
 *.log
+download_set_url.py
