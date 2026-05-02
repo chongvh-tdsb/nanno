@@ -1,7 +1,7 @@
 #EXTM3U billed-msg="1 ID 1 DEVICE | SUBSCRIPTION : BASIC"
 ##########################################################################################################################
 
-1 DEVICE
+1 DEVICEs
 
 https://iili.io/q9KNAxa.png
 ######################## 3 HOT CHANNEL SOOKA
