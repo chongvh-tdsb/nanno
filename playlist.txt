@@ -3,13 +3,13 @@
 http://yourdomain.com/info.ts
 #EXTINF:-1 tvg-logo="https://da.gd/starlogo" group-title="Account Info", Expiry Date: 2061-03-24 23:59:00
 http://yourdomain.com/info.ts
-#EXTINF:-1 tvg-logo="https://da.gd/starlogo" group-title="Account Info", Days Left: 12745
+#EXTINF:-1 tvg-logo="https://da.gd/starlogo" group-title="Account Info", Days Left: 12744
 http://yourdomain.com/info.ts
-#EXTINF:-1 tvg-logo="https://da.gd/starlogo" group-title="Account Info", Last Reload: 2026-05-02 06:03:06
+#EXTINF:-1 tvg-logo="https://da.gd/starlogo" group-title="Account Info", Last Reload: 2026-05-03 12:22:33
 http://yourdomain.com/info.ts
 #EXTINF:-1 tvg-logo="https://da.gd/starlogo" group-title="Account Info", Devices: 319/1000
 http://yourdomain.com/info.ts
-#EXTINF:-1 tvg-logo="https://da.gd/starlogo" group-title="Account Info", IP: 210.187.172.51
+#EXTINF:-1 tvg-logo="https://da.gd/starlogo" group-title="Account Info", IP: 124.13.109.170
 http://yourdomain.com/info.ts
 ******** Astro Ria Live **********
 
@@ -24,102 +24,122 @@ https://linears2-playback.astro.com.my/vsg/41_qFj3Bk-JjV0oDqk6apuuAfIwnIQdpyEw7-
 ******** Astro Ria B **********
 
 #EXTINF:-1 tvg-name="RIA HD" group-logo="https://da.gd/starlogo" tvg-logo="https://da.gd/ffria" group-title="MALAYSIA",Astro Ria B
-https://proxy.qeqa.my.id/stream.php?channel=astro_ria_b&user=0819
+https://proxy.qeqa.my.id/stream.php?channel=astro_ria_b&user=starlogo
 
 ********* Astro Prima B **********
 
 #EXTINF:-1 tvg-id="105.astro" tvg-name="PRIMA HD" group-title="MALAYSIA"  ch-number="105" group-logo="https://da.gd/starlogo" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjKVc8N-jqc1yUD3AjLaw19guV15ic1h1xfLkP8HjTj6mjdfhirP13KRQaIrS3QRc_wjNkXiWPk6a9cLcnCgFfixBsg1ukNGV2tW1NYrP0Suv0YfVlis-2vz5VOsdzYdLspEhbuK8ZDCX70pDdboBcqHlPg2wRzMdf5AECYNucOzCuEiypih_DQ85Bd9iOJ",Astro Prima B
-https://proxy.qeqa.my.id/stream.php?channel=astro_prima_b&user=0819
+https://proxy.qeqa.my.id/stream.php?channel=astro_prima_b&user=starlogo
 
 ********* Astro Citra B **********
 
 #EXTINF:-1  tvg-id="AstroCitra" group-title="MALAYSIA"  ch-number="108" group-logo="https://da.gd/starlogo" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhkwOlVgIRs7HxVP7gE6VLK0XsQRhCBi6Y4Udw_UF6M0CxQdA3_jrIV7EJ3_PhVZHVRd4EHj_Ruurz-_ioV74h_6NLbkK9O4YvDaLbSZJ6PmUiJOvu2Xic5pVW5iQ3dkqXn9xAeaf5-vQ1HT-Z9dA0uLLUcpZL5Beg7g1mPMnm9WebN3TYJ8neghkBuyzU5",Astro Citra B
-https://proxy.qeqa.my.id/stream.php?channel=astro_citra_b&user=0819
+https://proxy.qeqa.my.id/stream.php?channel=astro_citra_b&user=starlogo
 
 ********* Arena Bola B **********
 
 #EXTINF:-1 tvg-id="AstroArenaBola" ch-number="803" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEiBB0CSAWrqhC0r7ZwQ4oH7VmW8DS4wWiud1jFAdWlSgf7TT2096iOvEabF-g9SI5XoApaY0XMjONURBmFfF91fg9vn29Jgi1kRSzm-lzZNsCJlM3ZKjy59pPzKn21KUWmtiZqbZTM3NulVhdiNJ4on1SMLzoCf2MmFZMP3uS2gvLKWSkZbep2BSNshzwCo" group-logo="https://da.gd/starlogo" group-title="SPORTS",Arena Bola B
-https://proxy.qeqa.my.id/stream.php?channel=arena_bola_b&user=0819
+https://proxy.qeqa.my.id/stream.php?channel=arena_bola_b&user=starlogo
 
 ********* Arena Bola 2 B **********
 
 #EXTINF:-1 tvg-id="AstroArenaBola2" ch-number="804" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEiOh68HqNuy_TCwpkyh8-nIOvWiN1hMqeYmPuZiJU1UyC3x1YrOmLSVNuFDcOmG9Fs4nUBQEVL7Z9aCBUhBiQORckEoXJOcEqZrtUwPv5yMQaLC9ml4Qmv5Tihy02UpwBwHnhnzmNEzjZXESGWf6gAGyy4qk4bd61BkeY4-yIWnI4NeBvIOjyjvf7fy9dNN" group-logo="https://da.gd/starlogo" group-title="SPORTS",Arena Bola 2 B
-https://proxy.qeqa.my.id/stream.php?channel=arena_bola_2_b&user=0819
+https://proxy.qeqa.my.id/stream.php?channel=arena_bola_2_b&user=starlogo
 
 ********* Premier League B **********
 
 #EXTINF:-1 tvg-id="811.astro" ch-number="811" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjkWm-k5pzWLM1fZt706ros_LarDMfCtPb6bHun1ZA1MSqvzlVmENtAMcazg9t2LGPYjeMYdM-JUgZ7egIpsUeJTAITHrHJhhDGAfFbg0nD9tkVvM3U9DNM_XUCwmquI__NJb4UyRqcSIqqoBkG40MsW_UJHlVdZcYQ97k5wFpzXPDmoYCf52ymYFLvHq-6" group-title=" SPORTS",Premier League B
-https://proxy.qeqa.my.id/stream.php?channel=premier_league_b&user=0819
+https://proxy.qeqa.my.id/stream.php?channel=premier_league_b&user=starlogo
 
 ********* Premier League 2 B **********
 
 #EXTINF:-1 tvg-id="812.astro" ch-number="812" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEiDkfjz_bH81zAXpQgilqC3KzkNByKGmV7ue2_3qIQICGvDhkHlivPr_PH5Kyn8YchB0bYMU54xxnEK-0lDaioq5zdl3ZXo5RoTwHwvSzkiU1JffKDGnILYKAotZCyarWyjeQgnAFogkqcM3W27Cf9lbn5HFhq5QHGReH0uUJRZYqWsMBbZiYJJJJyxezsx" group-title="SPORTS",Premier League 2 B
-https://proxy.qeqa.my.id/stream.php?channel=premier_league_2_b&user=0819
+https://proxy.qeqa.my.id/stream.php?channel=premier_league_2_b&user=starlogo
+
+********* Astro Grandstand B **********
+
+#EXTINF:-1 tvg-id="810.astro" ch-number="810" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEibIhqgbaZffDPIg3JS24HKTb4fzvoCrIuMKVZGWjs1hKTCMqVYLBzImrr1MQol_38rD59afzXIR1LinvLBBmOW9NuLVRXfnur934efwpUwHHFvNXeQ0NlM6h6OvEGXVEY7tN-BYibnMMGMX_8M1yTAup5rLZSbrEqnGp3s3evGW3ekygKgaWSOHdhko9J_" group-logo="https://da.gd/starlogo" group-title="SPORTS",810 Astro Grandstand B
+https://proxy.qeqa.my.id/stream.php?channel=astro_grandstand_b&user=starlogo
+
+********* Astro Football B **********
+
+#EXTINF:-1 tvg-id="AstroFootball" ch-number="814" group-title=" SPORTS" ch-number="814" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEihgzMdj555WEOF5ywAj-AoHSsZwau1Qd9980jkSbGmbwfiRE_Zn7DFz6MFfElxD0amSMuwhJXk-XmrzdHSijkOw8pWBOZjseFZoicqBjxWO80BsAidcow_IOCGM-ehpPFHpYWWzpCVE7pKzNOkNXqHNkd35HvjelQtv8BA2u6K0tWgjXaS2VNGZdZSVP9L",814 Astro Football B
+https://proxy.qeqa.my.id/stream.php?channel=astro_football_b&user=starlogo
 
 ********* Badminton B **********
 
 #EXTINF:-1 tvg-id="AstroBadminton" ch-number="815" group-logo="https://da.gd/starlogo" group-title="SPORTS" ch-number="815" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgBc7NVB1EqxbCTjJwHFAJGNUCgk2R5yxvxrxrUxxORBmrW26nZuoJRijZVM5T06Mmv2wUGSslk3DGLZDQt49793E2NOqQYscl68nVPSGCYOeFQcZqq02BVdmXXPd1WUNtvmMj5-VysmNQ7GALa57joD9rV8-jNIW8YT57GqzmIzzJ6lHSQ089fO0XCPDQB",Astro Badminton B
-https://proxy.qeqa.my.id/stream.php?channel=astro_badminton_b&user=0819
+https://proxy.qeqa.my.id/stream.php?channel=astro_badminton_b&user=starlogo
 
 ********* Astro Boo B **********
 
 #EXTINF:-1 tvg-id="BOO" tvg-name="BOO HD" group-title="MALAYSIA" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png" tvg-logo="https://ws.kapallayar.cc//image//Logo//ENT//New//E_Boo.png",Astro Boo B
-https://proxy.qeqa.my.id/stream.php?channel=astro_boo_b&user=0819
+https://proxy.qeqa.my.id/stream.php?channel=astro_boo_b&user=starlogo
 
 ********* Astro Ceria B **********
 
 #EXTINF:-1  tvg-id="AstroCeria" tvg-name="Astro Ceria HD" group-logo="https://da.gd/starlogo" group-title="KIDS" tvg-logo="https://ws.kapallayar.cc//image//Logo//MALAYSIA//New//M_Ceria.png",Astro Ceria B
-https://proxy.qeqa.my.id/stream.php?channel=astro_ceria_b&user=0819
+https://proxy.qeqa.my.id/stream.php?channel=astro_ceria_b&user=starlogo
 
 ******** Astro Ria C **********
 
 #EXTINF:-1 tvg-name="RIA HD" group-logo="https://da.gd/starlogo" tvg-logo="https://da.gd/ffria" group-title="MALAYSIA",Astro Ria C
-https://proxy.qeqa.my.id/stream.php?channel=astro_ria_c&user=0819
+https://proxy.qeqa.my.id/stream.php?channel=astro_ria_c&user=starlogo
 
 ********* Astro Prima C **********
 
 #EXTINF:-1 tvg-id="105.astro" tvg-name="PRIMA HD" group-title="MALAYSIA"  ch-number="105" group-logo="https://da.gd/starlogo" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjKVc8N-jqc1yUD3AjLaw19guV15ic1h1xfLkP8HjTj6mjdfhirP13KRQaIrS3QRc_wjNkXiWPk6a9cLcnCgFfixBsg1ukNGV2tW1NYrP0Suv0YfVlis-2vz5VOsdzYdLspEhbuK8ZDCX70pDdboBcqHlPg2wRzMdf5AECYNucOzCuEiypih_DQ85Bd9iOJ",Astro Prima C
-https://proxy.qeqa.my.id/stream.php?channel=astro_prima_c&user=0819
+https://proxy.qeqa.my.id/stream.php?channel=astro_prima_c&user=starlogo
 
 ********* Astro Citra C **********
 
 #EXTINF:-1  tvg-id="AstroCitra" group-title="MALAYSIA"  ch-number="108" group-logo="https://da.gd/starlogo" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhkwOlVgIRs7HxVP7gE6VLK0XsQRhCBi6Y4Udw_UF6M0CxQdA3_jrIV7EJ3_PhVZHVRd4EHj_Ruurz-_ioV74h_6NLbkK9O4YvDaLbSZJ6PmUiJOvu2Xic5pVW5iQ3dkqXn9xAeaf5-vQ1HT-Z9dA0uLLUcpZL5Beg7g1mPMnm9WebN3TYJ8neghkBuyzU5",Astro Citra C
-https://proxy.qeqa.my.id/stream.php?channel=astro_citra_c&user=0819
+https://proxy.qeqa.my.id/stream.php?channel=astro_citra_c&user=starlogo
 
 ********* Arena Bola C **********
 
 #EXTINF:-1 tvg-id="AstroArenaBola" ch-number="803" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEiBB0CSAWrqhC0r7ZwQ4oH7VmW8DS4wWiud1jFAdWlSgf7TT2096iOvEabF-g9SI5XoApaY0XMjONURBmFfF91fg9vn29Jgi1kRSzm-lzZNsCJlM3ZKjy59pPzKn21KUWmtiZqbZTM3NulVhdiNJ4on1SMLzoCf2MmFZMP3uS2gvLKWSkZbep2BSNshzwCo" group-logo="https://da.gd/starlogo" group-title="SPORTS",Arena Bola C
-https://proxy.qeqa.my.id/stream.php?channel=arena_bola_c&user=0819
+https://proxy.qeqa.my.id/stream.php?channel=arena_bola_c&user=starlogo
 
 ********* Arena Bola 2 C **********
 
 #EXTINF:-1 tvg-id="AstroArenaBola2" ch-number="804" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEiOh68HqNuy_TCwpkyh8-nIOvWiN1hMqeYmPuZiJU1UyC3x1YrOmLSVNuFDcOmG9Fs4nUBQEVL7Z9aCBUhBiQORckEoXJOcEqZrtUwPv5yMQaLC9ml4Qmv5Tihy02UpwBwHnhnzmNEzjZXESGWf6gAGyy4qk4bd61BkeY4-yIWnI4NeBvIOjyjvf7fy9dNN" group-logo="https://da.gd/starlogo" group-title="SPORTS",Arena Bola 2 C
-https://proxy.qeqa.my.id/stream.php?channel=arena_bola_2_c&user=0819
+https://proxy.qeqa.my.id/stream.php?channel=arena_bola_2_c&user=starlogo
 
 ********* Premier League C **********
 
 #EXTINF:-1 tvg-id="811.astro" ch-number="811" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjkWm-k5pzWLM1fZt706ros_LarDMfCtPb6bHun1ZA1MSqvzlVmENtAMcazg9t2LGPYjeMYdM-JUgZ7egIpsUeJTAITHrHJhhDGAfFbg0nD9tkVvM3U9DNM_XUCwmquI__NJb4UyRqcSIqqoBkG40MsW_UJHlVdZcYQ97k5wFpzXPDmoYCf52ymYFLvHq-6" group-title=" SPORTS",Premier League C
-https://proxy.qeqa.my.id/stream.php?channel=premier_league_c&user=0819
+https://proxy.qeqa.my.id/stream.php?channel=premier_league_c&user=starlogo
 
 ********* Premier League 2 C **********
 
 #EXTINF:-1 tvg-id="812.astro" ch-number="812" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEiDkfjz_bH81zAXpQgilqC3KzkNByKGmV7ue2_3qIQICGvDhkHlivPr_PH5Kyn8YchB0bYMU54xxnEK-0lDaioq5zdl3ZXo5RoTwHwvSzkiU1JffKDGnILYKAotZCyarWyjeQgnAFogkqcM3W27Cf9lbn5HFhq5QHGReH0uUJRZYqWsMBbZiYJJJJyxezsx" group-title="SPORTS",Premier League 2 C
-https://proxy.qeqa.my.id/stream.php?channel=premier_league_2_c&user=0819
+https://proxy.qeqa.my.id/stream.php?channel=premier_league_2_c&user=starlogo
+
+********* Astro Grandstand C **********
+
+#EXTINF:-1 tvg-id="810.astro" ch-number="810" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEibIhqgbaZffDPIg3JS24HKTb4fzvoCrIuMKVZGWjs1hKTCMqVYLBzImrr1MQol_38rD59afzXIR1LinvLBBmOW9NuLVRXfnur934efwpUwHHFvNXeQ0NlM6h6OvEGXVEY7tN-BYibnMMGMX_8M1yTAup5rLZSbrEqnGp3s3evGW3ekygKgaWSOHdhko9J_" group-logo="https://da.gd/starlogo" group-title="SPORTS",810 Astro Grandstand C
+https://proxy.qeqa.my.id/stream.php?channel=astro_grandstand_c&user=starlogo
+
+********* Astro Football C **********
+
+#EXTINF:-1 tvg-id="AstroFootball" ch-number="814" group-title=" SPORTS" ch-number="814" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEihgzMdj555WEOF5ywAj-AoHSsZwau1Qd9980jkSbGmbwfiRE_Zn7DFz6MFfElxD0amSMuwhJXk-XmrzdHSijkOw8pWBOZjseFZoicqBjxWO80BsAidcow_IOCGM-ehpPFHpYWWzpCVE7pKzNOkNXqHNkd35HvjelQtv8BA2u6K0tWgjXaS2VNGZdZSVP9L",814 Astro Football C
+https://proxy.qeqa.my.id/stream.php?channel=astro_football_c&user=starlogo
 
 ********* Badminton C **********
 
 #EXTINF:-1 tvg-id="AstroBadminton" ch-number="815" group-logo="https://da.gd/starlogo" group-title="SPORTS" ch-number="815" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgBc7NVB1EqxbCTjJwHFAJGNUCgk2R5yxvxrxrUxxORBmrW26nZuoJRijZVM5T06Mmv2wUGSslk3DGLZDQt49793E2NOqQYscl68nVPSGCYOeFQcZqq02BVdmXXPd1WUNtvmMj5-VysmNQ7GALa57joD9rV8-jNIW8YT57GqzmIzzJ6lHSQ089fO0XCPDQB",Astro Badminton C
-https://proxy.qeqa.my.id/stream.php?channel=astro_badminton_c&user=0819
+https://proxy.qeqa.my.id/stream.php?channel=astro_badminton_c&user=starlogo
 
 ********* Astro Boo C **********
 
 #EXTINF:-1 tvg-id="BOO" tvg-name="BOO HD" group-title="MALAYSIA" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png" tvg-logo="https://ws.kapallayar.cc//image//Logo//ENT//New//E_Boo.png",Astro Boo C
-https://proxy.qeqa.my.id/stream.php?channel=astro_boo_c&user=0819
+https://proxy.qeqa.my.id/stream.php?channel=astro_boo_c&user=starlogo
 
 ********* Astro Ceria C **********
 
 #EXTINF:-1  tvg-id="AstroCeria" tvg-name="Astro Ceria HD" group-logo="https://da.gd/starlogo" group-title="KIDS" tvg-logo="https://ws.kapallayar.cc//image//Logo//MALAYSIA//New//M_Ceria.png",Astro Ceria C
-https://proxy.qeqa.my.id/stream.php?channel=astro_ceria_c&user=0819
+https://proxy.qeqa.my.id/stream.php?channel=astro_ceria_c&user=starlogo
 
 
 ❌❌❌❌❌ ASTRO ARENA ❌❌❌❌❌❌
@@ -144,7 +164,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5be66a6f88efee3d6e30f72a9c58e310:168f3fadfc730ba3dfc932f7c430e27d
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/dashiso/2701/default_ott.mpd
+#https://linearjitp-playback.astro.com.my/dash-wv/dashiso/2701/default_ott.mpd
 
 ❌❌❌❌❌ FOOTBALL ❌❌❌❌❌❌
 
@@ -152,7 +172,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/dashiso/2701/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"kf6+hDwIx8xSPv2CcpLkDg", "kid":"efQChzCsypq4sA8mFY3bEA" } ], "type":"temporary" } 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default_ott.mpd
+#https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default_ott.mpd
 
 ❌❌❌❌❌ CRICKET ❌❌❌❌❌
 
@@ -260,7 +280,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/809/default_primary.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ce43641a061a44fb9d95d986cfc9a68f:3d63855ca5cdfcfb765f306b98bcc646
-https://proxy.qeqa.my.id/stream.php?channel=tv3_fhd&user=0819
+https://proxy.qeqa.my.id/stream.php?channel=tv3_fhd&user=starlogo
 
 #EXTINF:-1  tvg-id="TV3" ch-number="103" tvg-name="TV3" group-title=" MALAYSIA" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgIorf8J9vspi_GqvMqWYn8PX_hsEkr7ipUbuxvhzj1Khka2VgUqX-k_5hRYIPvYhuJLNJmlUaxh2r5Es5NO0IZDhbmrth6Nj08ZJiedX0z10UTwAbtd7qTRMbS_chS6j_gxcm9yoMEBUybvV4xX2oxlDpgqlFxQEbtar4cZ6iz430MOh0IqT2zU-DKPYN_",103 TV3 HD
 #https://tzh911.qzz.io/play-smt.php?id=TV3
@@ -1923,6 +1943,27 @@ https://eventcdn02-nowe.akamaized.net/hls/CH621/index.m3u8
 https://dko29we9nm1rd.cloudfront.net/hls/CH622/index.m3u8
 https://eventcdn02-nowe.akamaized.net/hls/CH622/index.m3u8
 
+#EXTINF:-1 group-title="Sports Extra" tvg-logo="https://i.postimg.cc/hGszyVJ7/ezgif-51f1d228973424c5.png",Hub Premier 1
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+##http://lunar.pm:8080/Mrdon/4782314540/110288
+http://greenslime.cx/live/Bklyn347/QY06ksq41x/57435.ts
+
+#EXTINF:-1 group-title="Sports Extra" tvg-logo="https://i.postimg.cc/3R6wV1YP/ezgif-59db78b6e31298f0.png",Hub Premier 2
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+##http://lunar.pm:8080/Mrdon/4782314540/110289
+http://greenslime.cx/live/Bklyn347/QY06ksq41x/57436.ts
+
+#EXTINF:-1 group-title="Sports Extra" tvg-logo="https://i.postimg.cc/mkHYhVjR/ezgif-5436d8b5aa443574.png",Hub Premier 3
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+##http://lunar.pm:8080/Mrdon/4782314540/110290
+http://greenslime.cx/live/Bklyn347/QY06ksq41x/57437.ts
+
 #EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/tennis-channel-us.png" group-title="Sports Extra",40- Tennis Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 ##EXTHTTP:{"Origin": "https://www.cfbu247.sbs/", "Referer": "https://www.cf
@@ -2564,7 +2605,7 @@ https://sghost.mobileads.uno/uni5/uni5.mpd?id=unifi1&provider=mytech
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 12 Build/KTR982) AppleWebKit/537.36 (KHTML, like Gecko) like Chrome/39.6972359084 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=5b593bd530f1403a8f3eb9b2cd9236c8:d07c6a7f0b37a4090341e6380ff85060
-https://proxy.qeqa.my.id/stream.php?channel=spotv&user=0819
+https://proxy.qeqa.my.id/stream.php?channel=spotv&user=starlogo
 
 #EXTINF:-1 tvg-id="spotv2" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/6E16A3C6-3131-4199-B8F2-467F023E14BE/0-16x9.png?width=530" group-title="Unifi TV",SPOTV2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 12 Build/KTR982) AppleWebKit/537.36 (KHTML, like Gecko) like Chrome/39.6972359084 Safari/537.36
@@ -2572,28 +2613,28 @@ https://proxy.qeqa.my.id/stream.php?channel=spotv&user=0819
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 12 Build/KTR982) AppleWebKit/537.36 (KHTML, like Gecko) like Chrome/39.6972359084 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=1af079fb8e1d43d890c1d804431ad84c:3dc40bc5aaf09af8b1572646a45b1242
-https://proxy.qeqa.my.id/stream.php?channel=spotv2&user=0819
+https://proxy.qeqa.my.id/stream.php?channel=spotv2&user=starlogo
 
 #EXTINF:-1 tvg-id="beinsports" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/A0C43E09-6105-4CD5-9F44-390B57BCA1A5/0-16x9.png?width=530" group-title="Unifi TV",beIN SPORTS 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 12 Build/KTR982) AppleWebKit/537.36 (KHTML, like Gecko) like Chrome/39.6972359084 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d48b6088253c443eb94d27cb7828f707:e9776141f9e949273a072b0e035070ab
-https://proxy.qeqa.my.id/stream.php?channel=bein_sports_1&user=0819
+https://proxy.qeqa.my.id/stream.php?channel=bein_sports_1&user=starlogo
 
 #EXTINF:-1 tvg-id="beinsports2" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/B6AE264E-3B1A-4E37-B9A2-43D912FC89D7/0-16x9.png?width=530" group-title="Unifi TV",beIN SPORTS 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 12 Build/KTR982) AppleWebKit/537.36 (KHTML, like Gecko) like Chrome/39.6972359084 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=efa6ff1acefa43048e8b7adc21d98871:5d0f448b52a92035e3763c4a60275933
-https://proxy.qeqa.my.id/stream.php?channel=bein_sports_2&user=0819
+https://proxy.qeqa.my.id/stream.php?channel=bein_sports_2&user=starlogo
 
 #EXTINF:-1 tvg-id="beinsports3" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/03E8ED19-B3A5-44F1-9176-4EC1FD68B0A1/0-16x9.png?width=530" group-title="Unifi TV",beIN SPORTS 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 12 Build/KTR982) AppleWebKit/537.36 (KHTML, like Gecko) like Chrome/39.6972359084 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=816ee2f7c19f49ed84276f34541b465b:ca764a9973b6123a1112cffd3b32010d
-https://proxy.qeqa.my.id/stream.php?channel=bein_sports_3&user=0819
+https://proxy.qeqa.my.id/stream.php?channel=bein_sports_3&user=starlogo
 
 #EXTINF:-1 tvg-id="beinsports4" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/C0FFC072-D51A-4676-B232-F1C06BFA87D1/0-16x9.png?width=530" group-title="Unifi TV",beIN SPORTS 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 12 Build/KTR982) AppleWebKit/537.36 (KHTML, like Gecko) like Chrome/39.6972359084 Safari/537.36
@@ -2601,7 +2642,7 @@ https://proxy.qeqa.my.id/stream.php?channel=bein_sports_3&user=0819
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 12 Build/KTR982) AppleWebKit/537.36 (KHTML, like Gecko) like Chrome/39.6972359084 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=d561ff976397473e9b456b44cdffcdd2:2b6cff42f7fae7e8bc32f3d5c62dc3c2
-https://proxy.qeqa.my.id/stream.php?channel=bein_sports_4&user=0819
+https://proxy.qeqa.my.id/stream.php?channel=bein_sports_4&user=starlogo
 #################################################################Fifa+#################################################################
 
 #EXTINF:-1  tvg-id="GBBD1100008YW" tvg-logo="https://i.ibb.co.com/HK0Nf10/fifaplus.png" group-logo="https://da.gd/starlogo" group-title="FIFA World Cup 2026" , FIFA+ 1
