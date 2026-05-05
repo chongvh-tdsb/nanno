@@ -5,7 +5,7 @@ http://yourdomain.com/info.ts
 http://yourdomain.com/info.ts
 #EXTINF:-1 tvg-logo="https://da.gd/starlogo" group-title="Account Info", Days Left: 12742
 http://yourdomain.com/info.ts
-#EXTINF:-1 tvg-logo="https://da.gd/starlogo" group-title="Account Info", Last Reload: 2026-05-05 03:25:03
+#EXTINF:-1 tvg-logo="https://da.gd/starlogo" group-title="Account Info", Last Reload: 2026-05-05 03:55:38
 http://yourdomain.com/info.ts
 #EXTINF:-1 tvg-logo="https://da.gd/starlogo" group-title="Account Info", Devices: 321/1000
 http://yourdomain.com/info.ts
