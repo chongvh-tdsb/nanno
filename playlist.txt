@@ -5,9 +5,9 @@ http://yourdomain.com/info.ts
 http://yourdomain.com/info.ts
 #EXTINF:-1 tvg-logo="https://da.gd/starlogo" group-title="Account Info", Days Left: 12742
 http://yourdomain.com/info.ts
-#EXTINF:-1 tvg-logo="https://da.gd/starlogo" group-title="Account Info", Last Reload: 2026-05-05 06:58:08
+#EXTINF:-1 tvg-logo="https://da.gd/starlogo" group-title="Account Info", Last Reload: 2026-05-05 07:28:24
 http://yourdomain.com/info.ts
-#EXTINF:-1 tvg-logo="https://da.gd/starlogo" group-title="Account Info", Devices: 321/1000
+#EXTINF:-1 tvg-logo="https://da.gd/starlogo" group-title="Account Info", Devices: 322/1000
 http://yourdomain.com/info.ts
 #EXTINF:-1 tvg-logo="https://da.gd/starlogo" group-title="Account Info", IP: 115.164.36.149
 http://yourdomain.com/info.ts
