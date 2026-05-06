@@ -65,17 +65,18 @@ https://2da559d4c1d24884a735abbc512e6181.mediatailor.ap-southeast-1.amazonaws.co
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 Build/RTM5.220609.199; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://linears2-playback.astro.com.my/vsg/411CEN3FysWIeFtcTy0-4fAxxSKGREuRrPQOm6jf_mQHA=dFmL/dash-wv/jitp-linearwm/5099/default_ott.mpd
 
-#EXTINF:-1 group-logo="https://iili.io/q9KNAxa.png" tvg-id="803.astro" tvg-name="ARENA BOLA" group-title="Sports" tvg-logo="https://i.ibb.co/DRvRqg9/Astro-Arena-Bola-1-2024.png" ch-number="803",803 Arena Bola HD (Not 24H)
-##http://217.216.110.49:8000/bola1y70
-http://217.216.110.49:8000/bola1p90
-https://load.perfecttv.net/rwt.m3u8?username=vip_q71m0c0p&password=TTQtGNkD&channel=bola1
-##https://proxy.qeqa.my.id/stream.php?channel=arena_bola_c&user=0819
-
 @#EXTINF:-1 group-logo="https://iili.io/q9KNAxa.png" tvg-id="803.astro" tvg-name="ARENA BOLA" group-title="Sports" tvg-logo="https://i.ibb.co/DRvRqg9/Astro-Arena-Bola-1-2024.png" ch-number="803",803 Arena Bola HD (Not 24H)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 http://ktpremium.site:2095/itv263/9189/1059184
+
+#EXTINF:-1 group-logo="https://iili.io/q9KNAxa.png" tvg-id="803.astro" tvg-name="ARENA BOLA" group-title="Sports" tvg-logo="https://i.ibb.co/DRvRqg9/Astro-Arena-Bola-1-2024.png" ch-number="803",803 Arena Bola HD (Not 24H)
+##http://217.216.110.49:8000/bola1y70
+http://217.216.110.49:8000/bola1p90
+##https://load.perfecttv.net/rwt.m3u8?username=vip_q71m0c0p&password=TTQtGNkD&channel=bola1
+##https://proxy.qeqa.my.id/stream.php?channel=arena_bola_c&user=0819
+
 
 
 ##804
@@ -109,7 +110,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1600/default_ott.mpd
 
 
 ##811
-#EXTINF:-1 tvg-id="AstroPremierLeague" tvg-name="Astro SuperSport HD" ch-number="811" tvg-logo="https://i.ibb.co/6cMp29gT/Astro-Premier-League-1-2024.png" group-title="Sports",811 Premier League HD (Not 24H)
+@#EXTINF:-1 tvg-id="AstroPremierLeague" tvg-name="Astro SuperSport HD" ch-number="811" tvg-logo="https://i.ibb.co/6cMp29gT/Astro-Premier-League-1-2024.png" group-title="Sports",811 Premier League HD (Not 24H)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -119,10 +120,11 @@ https://53308ba99bd1418388e4bff908902bf9.mediatailor.ap-southeast-1.amazonaws.co
 ##https://linears2-playback.astro.com.my/vsg/41bNzyFb99-w3DIgfOzDypArMbNQgHEa36RtP4x4xSSIg=6WA2/dash-wv/jitp-linearwm/601/default_primary.mpd
 ##https://linearjitp-playback.astro.com.mydash-wv/linear/5182/default_ott.mpd
 
-@#EXTINF:-1 tvg-id="AstroPremierLeague" tvg-name="Astro SuperSport HD" ch-number="811" tvg-logo="https://i.ibb.co/6cMp29gT/Astro-Premier-League-1-2024.png" group-title="Sports",811 Premier League HD (Not 24H)
+#EXTINF:-1 tvg-id="AstroPremierLeague" tvg-name="Astro SuperSport HD" ch-number="811" tvg-logo="https://i.ibb.co/6cMp29gT/Astro-Premier-League-1-2024.png" group-title="Sports",811 Premier League HD (Not 24H)
 http://217.216.110.49:8000/epl1y70
 ##http://217.216.110.49:8000/epl1p90
 ##https://load.perfecttv.net/rwt.m3u8?username=vip_q71m0c0p&password=TTQtGNkD&channel=epl1
+
 
 
 
@@ -139,7 +141,7 @@ https://09494360a707453480cd47f514ea1800.mediatailor.ap-southeast-1.amazonaws.co
 #https://linears2-playback.astro.com.my/vsg/41V6vDkkYfqfCdbLRx5YiNNiXSqO0EO41NWIsJAN-56G8=sTrG/dash-wv/jitp-linearwm/2104/default_primary.mpd
 
 #EXTINF:-1 tvg-id="AstroPremierLeague2" tvg-name="Astro SuperSport 2 HD" ch-number="812" group-title="Sports" tvg-logo="https://i.ibb.co/6cMp29gT/Astro-Premier-League-1-2024.png",812 Premier League 2 HD (Not 24H)
-http://217.216.110.49:8000/epl2y70
+##http://217.216.110.49:8000/epl2y70
 http://217.216.110.49:8000/epl2p90
 ##https://load.perfecttv.net/rwt.m3u8?username=vip_q71m0c0p&password=TTQtGNkD&channel=epl2
 ##http://front-main.eagle-4k.me/live/rmt8r91bac/tsleey7v5g/1163986.ts
