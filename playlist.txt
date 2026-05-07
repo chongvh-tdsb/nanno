@@ -3,13 +3,13 @@
 http://yourdomain.com/info.ts
 #EXTINF:-1 tvg-logo="https://da.gd/starlogo" group-title="Account Info", Expiry Date: 2061-03-24 23:59:00
 http://yourdomain.com/info.ts
-#EXTINF:-1 tvg-logo="https://da.gd/starlogo" group-title="Account Info", Days Left: 12741
+#EXTINF:-1 tvg-logo="https://da.gd/starlogo" group-title="Account Info", Days Left: 12740
 http://yourdomain.com/info.ts
-#EXTINF:-1 tvg-logo="https://da.gd/starlogo" group-title="Account Info", Last Reload: 2026-05-06 08:29:01
+#EXTINF:-1 tvg-logo="https://da.gd/starlogo" group-title="Account Info", Last Reload: 2026-05-07 02:04:27
 http://yourdomain.com/info.ts
-#EXTINF:-1 tvg-logo="https://da.gd/starlogo" group-title="Account Info", Devices: 323/1000
+#EXTINF:-1 tvg-logo="https://da.gd/starlogo" group-title="Account Info", Devices: 324/1000
 http://yourdomain.com/info.ts
-#EXTINF:-1 tvg-logo="https://da.gd/starlogo" group-title="Account Info", IP: 115.164.119.65
+#EXTINF:-1 tvg-logo="https://da.gd/starlogo" group-title="Account Info", IP: 115.164.33.180
 http://yourdomain.com/info.ts
 ******** Astro Ria B **********
 
@@ -1833,6 +1833,14 @@ https://eventcdn02-nowe.akamaized.net/hls/CH621/index.m3u8
 #EXTINF:-1 tvg-id="Now Sports" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch622_3000_1500" group-title="Sports Extra",Now Sports 2
 https://dko29we9nm1rd.cloudfront.net/hls/CH622/index.m3u8
 https://eventcdn02-nowe.akamaized.net/hls/CH622/index.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="Soccer.Channel.id" tvg-name="Soccer Channel" tvg-logo="https://mimipipi22.github.io/logo/sports/soccer.jpg" group-title="Sports Extra",SOCCER CHANNEL
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
+https://fta4-cdn-flr.visionplus.id/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
 
 #EXTINF:-1 tvg-url="https://epg.pw/api/epg.xml?lang=en&date=20260421&channel_id=369784" tvg-id="369784" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/221_1920x1080_HTV.png?w=272" group-title="Sports Extra", Hub Premier 1
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=1314077&extension=ts&play_token=OkTEn6qiDL
