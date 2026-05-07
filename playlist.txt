@@ -5,11 +5,11 @@ http://yourdomain.com/info.ts
 http://yourdomain.com/info.ts
 #EXTINF:-1 tvg-logo="https://da.gd/starlogo" group-title="Account Info", Days Left: 12740
 http://yourdomain.com/info.ts
-#EXTINF:-1 tvg-logo="https://da.gd/starlogo" group-title="Account Info", Last Reload: 2026-05-07 04:58:45
+#EXTINF:-1 tvg-logo="https://da.gd/starlogo" group-title="Account Info", Last Reload: 2026-05-07 08:58:46
 http://yourdomain.com/info.ts
 #EXTINF:-1 tvg-logo="https://da.gd/starlogo" group-title="Account Info", Devices: 324/1000
 http://yourdomain.com/info.ts
-#EXTINF:-1 tvg-logo="https://da.gd/starlogo" group-title="Account Info", IP: 115.164.33.180
+#EXTINF:-1 tvg-logo="https://da.gd/starlogo" group-title="Account Info", IP: 27.0.5.1
 http://yourdomain.com/info.ts
 ******** Astro Ria B **********
 
