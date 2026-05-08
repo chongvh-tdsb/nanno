@@ -3,13 +3,13 @@
 http://yourdomain.com/info.ts
 #EXTINF:-1 tvg-logo="https://da.gd/starlogo" group-title="Account Info", Expiry Date: 2061-03-24 23:59:00
 http://yourdomain.com/info.ts
-#EXTINF:-1 tvg-logo="https://da.gd/starlogo" group-title="Account Info", Days Left: 12740
+#EXTINF:-1 tvg-logo="https://da.gd/starlogo" group-title="Account Info", Days Left: 12739
 http://yourdomain.com/info.ts
-#EXTINF:-1 tvg-logo="https://da.gd/starlogo" group-title="Account Info", Last Reload: 2026-05-07 08:58:46
+#EXTINF:-1 tvg-logo="https://da.gd/starlogo" group-title="Account Info", Last Reload: 2026-05-08 02:11:09
 http://yourdomain.com/info.ts
 #EXTINF:-1 tvg-logo="https://da.gd/starlogo" group-title="Account Info", Devices: 324/1000
 http://yourdomain.com/info.ts
-#EXTINF:-1 tvg-logo="https://da.gd/starlogo" group-title="Account Info", IP: 27.0.5.1
+#EXTINF:-1 tvg-logo="https://da.gd/starlogo" group-title="Account Info", IP: 115.164.36.122
 http://yourdomain.com/info.ts
 ******** Astro Ria B **********
 
