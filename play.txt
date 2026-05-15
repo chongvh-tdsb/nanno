@@ -7,6 +7,7 @@ https://iili.io/q9KNAxa.png
 ######################## 3 HOT CHANNEL SOOKA
 
 
+
 ##404
 @#EXTINF:-1 group-logo="https://iili.io/q9KNAxa.png" tvg-id="BOO" tvg-name="BOO" tvg-logo="https://i.ibb.co/hF69DQJq/Astro-Boo-2024.png" group-title="HOT CHANNEL" ch-number="404",404 BOO (Not 24H)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -50,11 +51,11 @@ http://opplextv.cyou:8080/nasir6160/nasir/388726
 
 
 ##803
-@#EXTINF:-1 group-logo="https://iili.io/q9KNAxa.png" tvg-id="803.astro" tvg-name="ARENA BOLA" group-title="Sports" tvg-logo="https://i.ibb.co/DRvRqg9/Astro-Arena-Bola-1-2024.png" ch-number="803",803 Arena Bola HD (Not 24H)
+#EXTINF:-1 group-logo="https://iili.io/q9KNAxa.png" tvg-id="803.astro" tvg-name="ARENA BOLA" group-title="Sports" tvg-logo="https://i.ibb.co/DRvRqg9/Astro-Arena-Bola-1-2024.png" ch-number="803",803 Arena Bola HD (Not 24H)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=499a8f368064b11cc092b7b013db0710:e151bb81468a8426d6ab12860d314aa3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
-https://2da559d4c1d24884a735abbc512e6181.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH24-dash/vsg/41NC3-3LwNw0YAI6BhIKD73fyB5nu20sawXZTtLpx6RUw=g4zE/dash-wv/jitp-dashisowm/5099/default_ott.mpd?aws.sessionId=81ab0a77-b60b-47db-a5b3-c549b2920c65
+https://2da559d4c1d24884a735abbc512e6181.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH24-dash/vsg/41NC3-3LwNw0YAI6BhIKD73bUc0bBblDqB37lrbRfzNgQ=QfFh/dash-wv/jitp-dashisowm/5099/default_primary.mpd?aws.sessionId=f07aace9-198c-42da-ae00-2910fff3b117
 
 @#EXTINF:-1 group-logo="https://iili.io/q9KNAxa.png" tvg-id="803.astro" tvg-name="ARENA BOLA" group-title="Sports" tvg-logo="https://i.ibb.co/DRvRqg9/Astro-Arena-Bola-1-2024.png" ch-number="803",803 Arena Bola HD (Not 24H)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -70,14 +71,14 @@ https://linears2-playback.astro.com.my/vsg/411CEN3FysWIeFtcTy0-4fAxxSKGREuRrPQOm
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 http://ktpremium.site:2095/itv263/9189/1059184
 
-#EXTINF:-1 group-logo="https://iili.io/q9KNAxa.png" tvg-id="803.astro" tvg-name="ARENA BOLA" group-title="Sports" tvg-logo="https://i.ibb.co/DRvRqg9/Astro-Arena-Bola-1-2024.png" ch-number="803",803 Arena Bola HD (Not 24H)
+@#EXTINF:-1 group-logo="https://iili.io/q9KNAxa.png" tvg-id="803.astro" tvg-name="ARENA BOLA" group-title="Sports" tvg-logo="https://i.ibb.co/DRvRqg9/Astro-Arena-Bola-1-2024.png" ch-number="803",803 Arena Bola HD (Not 24H)
 ##http://217.216.110.49:8000/bola1y70
 http://217.216.110.49:8000/bola1p90
 ##https://cf.perfecttv.net/rwt.m3u8?username=vip_tr05fxco&password=ym9HNHZe&channel=bola1
 ##https://proxy.qeqa.my.id/stream.php?channel=arena_bola_c&user=0819
 ##https://wahyu1ptv.pages.dev/AstroArenaBola1-HD.m3u8
 ##https://jebon.sooka2.workers.dev/live2.m3u8
-http://iptv12k.com:35461/live/m260501867052905/111111/20627.ts
+
 
 
 ##804
@@ -156,13 +157,13 @@ http://217.216.110.49:8000/epl2p90
 
 
 ##815
-@#EXTINF:-1 tvg-id="AstroBadminton" ch-number="815" group-title="Sports" tvg-logo="https://i.ibb.co/xqPpPGMS/Astro-Badminton-1-2024.png",815 Badminton HD (Not 24H)
+#EXTINF:-1 tvg-id="AstroBadminton" ch-number="815" group-title="Sports" tvg-logo="https://i.ibb.co/xqPpPGMS/Astro-Badminton-1-2024.png",815 Badminton HD (Not 24H)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"g3KLRwGavbs3qjbtXylRvQ", "kid":"b/DgQNVE7D8CJDhlmQ8MEA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
-https://11d1b8e3842949bcbcf26e20ed80c3d3.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH32-dash/vsg/41hlcvN21g8hzG2Hl38fg_M1fA3Vp62AGUdqFenYWbIuc=fFdJ/dash-wv/jitp-dashisowm/5170/default_ott.mpd?aws.sessionId=b293079b-fd53-4e70-a78f-1006c09d04dd
+https://11d1b8e3842949bcbcf26e20ed80c3d3.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH32-dash/vsg/410XgIxyTLavEmnxZ-w8PdMLTdAxY2DJeBbMAk2nErhv8=LkIn/dash-wv/jitp-dashisowm/5170/default_primary.mpd?aws.sessionId=87f17983-387b-420e-8483-5f3a4a5474ae
 
 @#EXTINF:-1 tvg-id="AstroBadminton" ch-number="815" group-title="Sports" tvg-logo="https://i.ibb.co/xqPpPGMS/Astro-Badminton-1-2024.png",815 Badminton HD (Not 24H) B
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -171,7 +172,7 @@ https://11d1b8e3842949bcbcf26e20ed80c3d3.mediatailor.ap-southeast-1.amazonaws.co
 #KODIPROP:inputstream.adaptive.license_key=6ff0e040d544ec3f02243865990f0c10:83728b47019abdbb37aa36ed5f2951bd
 https://linears2-playback.astro.com.my/vsg/41CpKy_ReGQ1QpqXnUjCERIoej8e1W_38vpKfrG3brRwY=nxpD/dash-wv/jitp-linearwm/5170/default_primary.mpd
 
-#EXTINF:-1 tvg-id="AstroBadminton" ch-number="815" group-title="Sports" tvg-logo="https://i.ibb.co/xqPpPGMS/Astro-Badminton-1-2024.png",815 Badminton HD (Not 24H)
+@#EXTINF:-1 tvg-id="AstroBadminton" ch-number="815" group-title="Sports" tvg-logo="https://i.ibb.co/xqPpPGMS/Astro-Badminton-1-2024.png",815 Badminton HD (Not 24H)
 ##http://217.216.110.49:8000/badmintony70
 http://217.216.110.49:8000/badmintonp90
 ##https://proxy.qeqa.my.id/stream.php?channel=astro_badminton_b&user=0819
