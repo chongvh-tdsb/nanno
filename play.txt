@@ -9,24 +9,15 @@ https://iili.io/q9KNAxa.png
 
 
 ##404
-@#EXTINF:-1 group-logo="https://iili.io/q9KNAxa.png" tvg-id="BOO" tvg-name="BOO" tvg-logo="https://i.ibb.co/hF69DQJq/Astro-Boo-2024.png" group-title="HOT CHANNEL" ch-number="404",404 BOO (Not 24H)
+#EXTINF:-1 group-logo="https://iili.io/q9KNAxa.png" tvg-id="BOO" tvg-name="BOO" tvg-logo="https://i.ibb.co/hF69DQJq/Astro-Boo-2024.png" group-title="HOT CHANNEL" ch-number="404",404 BOO (Not 24H)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"8yZr7GB/JYefSGQPMPHIiA", "kid":"6k1RreAbvzlG4N6XMFG6EA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; ZTE A7030 Build/RP1A.201005.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/133.0.6943.121 Mobile Safari/537.36
-https://20c45cf794ec4a3cac12fb76717fd621.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH18-dash/vsg/41pro8VaO0mYHITk5ZCN1KsmrbEOpTShPGwcQiG2q7He4=J_C0/dash-wv/jitp-dashisowm/2407/default_ott.mpd?aws.sessionId=64bebd59-0d13-499a-8293-f6fcd23c140f
+https://linears2-playback.astro.com.my/vsg/41B08gi0UErU0xYzWaYArAVYPOBpyIaGmFRpRX3xMxgKk=9BsZ/dash-wv/jitp-linearwm/2407/default_primary.mpd
 
 @#EXTINF:-1 group-logo="https://iili.io/q9KNAxa.png" tvg-id="BOO" tvg-name="BOO" tvg-logo="https://i.ibb.co/hF69DQJq/Astro-Boo-2024.png" group-title="HOT CHANNEL" ch-number="404",404 BOO (Not 24H)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"8yZr7GB/JYefSGQPMPHIiA", "kid":"6k1RreAbvzlG4N6XMFG6EA" } ], "type":"temporary" }
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 12 Build/KTR982) AppleWebKit/537.36 (KHTML, like Gecko) like Chrome/39.9628920736 Safari/537.36
-##https://linears2-playback.astro.com.my/vsg/41L7eoML7MfkpsFs-7zVhAsmutJ-KJ9YcTGUpn7jpmdNk=j0K8/dash-wv/jitp-linearwm/2407/default_ott.mpd
-https://mt01.aa.astro.com.my/linears2-playback.astro.com.my/vsg/41y0ynd9RhT3EhXNwVWTnzfc0F3B5S8EgftUFX96yijX4=JmAp/dash-wv/jitp-linearwm/2407/default_primary.mpd?aws.sessionId=a2V5MTIzNDU2NTczMzI0NTgzNA==
-
-#EXTINF:-1 group-logo="https://iili.io/q9KNAxa.png" tvg-id="BOO" tvg-name="BOO" tvg-logo="https://i.ibb.co/hF69DQJq/Astro-Boo-2024.png" group-title="HOT CHANNEL" ch-number="404",404 BOO (Not 24H)
 ##http://217.216.110.49:8000/booy70
 ##http://217.216.110.49:8000/boop90
 ##https://cf.perfecttv.net/rwt.m3u8?username=vip_tr05fxco&password=ym9HNHZe&channel=boo
@@ -34,15 +25,15 @@ http://opplextv.cyou:8080/nasir6160/nasir/388747
 
 
 ##611
-@#EXTINF:-1 group-logo="https://iili.io/q9KNAxa.png" tvg-id="AstroCeria" tvg-name="CERIA HD" group-title="HOT CHANNEL" tvg-logo="https://i.ibb.co/ycDN5VtK/Astro-Ceria-2024.png" ch-number="611",611 Ceria HD (Not 24H)
+#EXTINF:-1 group-logo="https://iili.io/q9KNAxa.png" tvg-id="AstroCeria" tvg-name="CERIA HD" group-title="HOT CHANNEL" tvg-logo="https://i.ibb.co/ycDN5VtK/Astro-Ceria-2024.png" ch-number="611",611 Ceria HD (Not 24H)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 5.0.2; LG-V410/V41020c Build/LRX22G) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/34.0.1847.118 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=b6e60ca0d28e8f97395f07b4e2e53a10:0f0ea6c3543c29d7f513eb886eb74f88
-https://linears2-playback.astro.com.my/vsg/41M5mtT5NqINkq9ZcwkCb8zLFgY9GLekzhrDInEj9Cq14=iPhV/dash-wv/jitp-linearwm/2606/default_ott.mpd
+https://linears2-playback.astro.com.my/vsg/41YsZsjeDt9M_8s0YQoo32UREpRt_ZQGFZUrwUxXTJbiU=02Jj/dash-wv/jitp-linearwm/2606/default_primary.mpd
 
-#EXTINF:-1 group-logo="https://iili.io/q9KNAxa.png" tvg-id="AstroCeria" tvg-name="CERIA HD" group-title="HOT CHANNEL" tvg-logo="https://i.ibb.co/ycDN5VtK/Astro-Ceria-2024.png" ch-number="611",611 Ceria HD (Not 24H)
+@#EXTINF:-1 group-logo="https://iili.io/q9KNAxa.png" tvg-id="AstroCeria" tvg-name="CERIA HD" group-title="HOT CHANNEL" tvg-logo="https://i.ibb.co/ycDN5VtK/Astro-Ceria-2024.png" ch-number="611",611 Ceria HD (Not 24H)
 ##http://217.216.110.49:8000/ceriay70
 http://217.216.110.49:8000/ceriap90
 ##https://cf.perfecttv.net/rwt.m3u8?username=vip_tr05fxco&password=ym9HNHZe&channel=ceria
@@ -57,7 +48,7 @@ http://217.216.110.49:8000/ceriap90
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=499a8f368064b11cc092b7b013db0710:e151bb81468a8426d6ab12860d314aa3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 Build/RTM5.220609.199; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
-https://mt24.aa.astro.com.my/linears2-playback.astro.com.my/vsg/41B017WdjREsvUkNoctEHjutzWIQ8UStkzQ05SvZEA7gk=e9Ue/dash-wv/jitp-linearwm/5099/default_primary.mpd
+https://mt24.aa.astro.com.my/linears2-playback.astro.com.my/vsg/41B017WdjREsvUkNoctEHjutWlySHgqHj1Yy4IwLyKjT4=xHz8/dash-wv/jitp-linearwm/5099/default_primary.mpd
 
 @#EXTINF:-1 group-logo="https://iili.io/q9KNAxa.png" tvg-id="803.astro" tvg-name="ARENA BOLA" group-title="Sports" tvg-logo="https://i.ibb.co/DRvRqg9/Astro-Arena-Bola-1-2024.png" ch-number="803",803 Arena Bola HD (Live Event Only)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -155,23 +146,17 @@ http://217.216.110.49:8000/epl2p90
 https://11d1b8e3842949bcbcf26e20ed80c3d3.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH32-dash/vsg/410XgIxyTLavEmnxZ-w8PdMLTdAxY2DJeBbMAk2nErhv8=LkIn/dash-wv/jitp-dashisowm/5170/default_ott.mpd?aws.sessionId=87f17983-387b-420e-8483-5f3a4a5474ae
 
 @#EXTINF:-1 tvg-id="AstroBadminton" ch-number="815" group-title="Sports" tvg-logo="https://i.ibb.co/xqPpPGMS/Astro-Badminton-1-2024.png",815 Badminton HD (Live Event Only)
+##http://217.216.110.49:8000/badmintony70
+http://217.216.110.49:8000/badmintonp90
+##https://proxy.qeqa.my.id/stream.php?channel=astro_badminton_b&user=0819
+https://cf.perfecttv.net/rwt.m3u8?username=vip_jtomgvsk&password=3ck0XZBg&channel=badminton
+
+#EXTINF:-1 tvg-id="AstroBadminton" ch-number="815" group-title="Sports" tvg-logo="https://i.ibb.co/xqPpPGMS/Astro-Badminton-1-2024.png",815 Badminton HD (Live Event Only)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"User-agent":"Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36"}
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ff0e040d544ec3f02243865990f0c10:83728b47019abdbb37aa36ed5f2951bd
-https://linears2-playback.astro.com.my/vsg/41CpKy_ReGQ1QpqXnUjCERIoej8e1W_38vpKfrG3brRwY=nxpD/dash-wv/jitp-linearwm/5170/default_primary.mpd
-
-@#EXTINF:-1 tvg-id="AstroBadminton" ch-number="815" group-title="Sports" tvg-logo="https://i.ibb.co/xqPpPGMS/Astro-Badminton-1-2024.png",815 Badminton HD (Live Event Only)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"0bbb23a5ad81427fa6817864b2383402":"81e055a8d6ddf6392ae9033f0f037b98","1bca05447d354cb4913a66e125fb75ef":"45253aa554c444961fb6a4432abb6b1c"}
-#EXTVLCOPT:http-user-agent=User-Agent: Mozilla/5.0 (Linux; Android 11; Xperia 5 Build/استخدم هذا الرمز للوصول إلى القنوات. احتفظ به آمنًا ولا تشاركه مع أي شخص; wv) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.7.1675.48 Safari/537.36
-https://l87.dp.sooka.my/5170/linear/index.mpd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTg0Mzk5ODUsImlzcyI6IlZSIiwiZXhwIjoxNzU4NDkzODAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiYjY4MTE1MzAtYmI5OC00Y2JiLWFlZDEtMmIxZDY4OTY2YWYzIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NzIwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiNTE3MCJ9.UPscg-nXd0JM2c-Hln2kNn4xgFSoogiAeKbLqFUY-7M
-
-#EXTINF:-1 tvg-id="AstroBadminton" ch-number="815" group-title="Sports" tvg-logo="https://i.ibb.co/xqPpPGMS/Astro-Badminton-1-2024.png",815 Badminton HD (Live Event Only)
-##http://217.216.110.49:8000/badmintony70
-http://217.216.110.49:8000/badmintonp90
-##https://proxy.qeqa.my.id/stream.php?channel=astro_badminton_b&user=0819
-##https://cf.perfecttv.net/rwt.m3u8?username=vip_jtomgvsk&password=3ck0XZBg&channel=badminton
+https://linears2-playback.astro.com.my/vsg/41jkB121wcOFmSdF9Kn-jKhTKNZG2YP1G2TIUUhxfLJXs=fq-S/dash-wv/jitp-linearwm/5170/default_primary.mpd
 
 
 ##810
