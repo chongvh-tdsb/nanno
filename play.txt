@@ -15,7 +15,7 @@ https://iili.io/q9KNAxa.png
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"8yZr7GB/JYefSGQPMPHIiA", "kid":"6k1RreAbvzlG4N6XMFG6EA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; ZTE A7030 Build/RP1A.201005.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/133.0.6943.121 Mobile Safari/537.36
-https://linears2-playback.astro.com.my/vsg/41B08gi0UErU0xYzWaYArAVaeb5LDzO37hSQpSPsILgj0=-FRA/dash-wv/jitp-linearwm/2407/default_ott.mpd
+https://linears2-playback.astro.com.my/vsg/41B08gi0UErU0xYzWaYArAVSnVLVNCeYPadg7M49ixDbQ=juPD/dash-wv/jitp-linearwm/2407/default_ott.mpd
 
 @#EXTINF:-1 group-logo="https://iili.io/q9KNAxa.png" tvg-id="BOO" tvg-name="BOO" tvg-logo="https://i.ibb.co/hF69DQJq/Astro-Boo-2024.png" group-title="HOT CHANNEL" ch-number="404",404 BOO (Not 24H)
 ##http://217.216.110.49:8000/booy70
@@ -31,7 +31,7 @@ http://opplextv.cyou:8080/nasir6160/nasir/388747
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 5.0.2; LG-V410/V41020c Build/LRX22G) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/34.0.1847.118 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=b6e60ca0d28e8f97395f07b4e2e53a10:0f0ea6c3543c29d7f513eb886eb74f88
-https://linears2-playback.astro.com.my/vsg/41YsZsjeDt9M_8s0YQoo32UYanop43CdfoJyB4eD7nNbE=qiEG/dash-wv/jitp-linearwm/2606/default_ott.mpd
+https://linears2-playback.astro.com.my/vsg/41YsZsjeDt9M_8s0YQoo32UUCsfPEo0Rr6yKl32b48zvk=B4WV/dash-wv/jitp-linearwm/2606/default_ott.mpd
 
 @#EXTINF:-1 group-logo="https://iili.io/q9KNAxa.png" tvg-id="AstroCeria" tvg-name="CERIA HD" group-title="HOT CHANNEL" tvg-logo="https://i.ibb.co/ycDN5VtK/Astro-Ceria-2024.png" ch-number="611",611 Ceria HD (Not 24H)
 ##http://217.216.110.49:8000/ceriay70
@@ -49,12 +49,6 @@ http://217.216.110.49:8000/ceriap90
 #KODIPROP:inputstream.adaptive.license_key=499a8f368064b11cc092b7b013db0710:e151bb81468a8426d6ab12860d314aa3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 Build/RTM5.220609.199; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://mt24.aa.astro.com.my/linears2-playback.astro.com.my/vsg/41B017WdjREsvUkNoctEHjutWlySHgqHj1Yy4IwLyKjT4=xHz8/dash-wv/jitp-linearwm/5099/default_primary.mpd
-
-@#EXTINF:-1 group-logo="https://iili.io/q9KNAxa.png" tvg-id="803.astro" tvg-name="ARENA BOLA" group-title="Sports" tvg-logo="https://i.ibb.co/DRvRqg9/Astro-Arena-Bola-1-2024.png" ch-number="803",803 Arena Bola HD (Live Event Only)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"57833c900c4c437f82daf6785eb6ef36":"7bf4663e43cdc277b4ae18219c81d2a1","fb06bb8266fb4a998e7c4e7e90461556":"52242587d8106c4b3ed596c7a56b4e28"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 Build/RTM5.220609.199; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
-https://s81.dp.sooka.my/5099/linear/index.mpd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3Nzk0NTgxNzgsImlzcyI6IlZSIiwiZXhwIjoxNzc5NDg5MDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiMzBmMWM1Y2EtODBiYS00ZGNhLThkZDEtOWRkMDU1NWI1ZmNlIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NzIwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiNTA5OSJ9.rOkgirxRjnFUYjhHzNWwsP7V_QcVDsZTZwF_PCbhtsY
 
 #EXTINF:-1 group-logo="https://iili.io/q9KNAxa.png" tvg-id="803.astro" tvg-name="ARENA BOLA" group-title="Sports" tvg-logo="https://i.ibb.co/DRvRqg9/Astro-Arena-Bola-1-2024.png" ch-number="803",803 Arena Bola HD (Live Event Only)
 ##http://217.216.110.49:8000/bola1y70
@@ -75,12 +69,6 @@ http://217.216.110.49:8000/bola1p90
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 Build/RTM5.220609.199; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://linears2-playback.astro.com.my/vsg/41hqhxqSQ3GHk93RQFS4uuD-fkvek_BMcJHUaYaTgo7HI=W8n8/dash-wv/jitp-linearwm/5100/default_primary.mpd
 
-@#EXTINF:-1 tvg-id="AstroArenaBola2" ch-number="804" tvg-logo="https://i.ibb.co/4Wk65pX/Astro-Arena-Bola-2-2024.png" group-title="Sports",804 Arena Bola 2 HD (Live Event Only)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"1314914fb4f94984b7a7572a03b69f93":"7ec8c4186df69a58cf640291a7c9ac7c","f166a88a7f1b40bba2e399bf2f972365":"abf14067e089861730f4c6ff24b52dba"}
-#EXTVLCOPT:http-user-agent=User-Agent: Mozilla/5.0 (Linux; Android 11; Xperia 5 Build/استخدم هذا الرمز للوصول إلى القنوات. احتفظ به آمنًا ولا تشاركه مع أي شخص; wv) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.7.1675.48 Safari/537.36
-https://l82.dp.sooka.my/5100/linear/index.mpd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NzkyNzA1NTEsImlzcyI6IlZSIiwiZXhwIjoxNzc5MzE2MjAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiMzBmMWM1Y2EtODBiYS00ZGNhLThkZDEtOWRkMDU1NWI1ZmNlIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NzIwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiNTEwMCJ9.aF_T2sjeY_CsBjE6oJC05VW6T_6w9ErXTCcNQKSE7hQ
-
 #EXTINF:-1 tvg-id="AstroArenaBola2" ch-number="804" tvg-logo="https://i.ibb.co/4Wk65pX/Astro-Arena-Bola-2-2024.png" group-title="Sports",804 Arena Bola 2 HD (Live Event Only)
 ##http://217.216.110.49:8000/bola2y70
 http://217.216.110.49:8000/bola2p90
@@ -96,13 +84,6 @@ http://217.216.110.49:8000/bola2p90
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"TxVBP35HZ7UMSOGbf5ovzA", "kid":"90mrcfInmZv7CY9zNZqsEA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; ZTE A7030 Build/RP1A.201005.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/133.0.6943.121 Mobile Safari/537.36
 https://mt26.aa.astro.com.my/linears2-playback.astro.com.my/vsg/41I94Jn6yFR1mvrBg_GlvcH1VZb8cV2cffKDhRb75KcLA=eiq0/dash-wv/jitp-linearwm/601/default_primary.mpd
-
-@#EXTINF:-1 tvg-id="AstroPremierLeague" tvg-name="Astro SuperSport HD" ch-number="811" tvg-logo="https://i.ibb.co/6cMp29gT/Astro-Premier-League-1-2024.png" group-title="Sports",811 Premier League HD (Live Event Only)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-##KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Q+/2qNqJajQFbzOeyVYgRQ","kid":"EJC+8ydbRdGIIAuCj+MFJw"}],"type":"temporary"}
-#KODIPROP:inputstream.adaptive.license_key={"bb2dc3cfa3024039ae59b55e6b0b5de5":"03d25d6ceb16fc4e007697e9d2124fac","1090bef3275b45d188200b828fe30527":"43eff6a8da896a34056f339ec9562045"}
-#EXTVLCOPT:http-user-agent=User-Agent: Mozilla/5.0 (Linux; Android 11; Xperia 5 Build/استخدم هذا الرمز للوصول إلى القنوات. احتفظ به آمنًا ولا تشاركه مع أي شخص; wv) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.7.1675.48 Safari/537.36
-https://l81.dp.sooka.my/601/linear/index.mpd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NzkyMzY3MDYsImlzcyI6IlZSIiwiZXhwIjoxNzc5MzE2MjAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiMzBmMWM1Y2EtODBiYS00ZGNhLThkZDEtOWRkMDU1NWI1ZmNlIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NzIwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiNjAxIn0._wB9i-s2ysJuUKPT0ebj974I80r6k89FdnPCoAqFjuk
 
 #EXTINF:-1 tvg-id="AstroPremierLeague" tvg-name="Astro SuperSport HD" ch-number="811" tvg-logo="https://i.ibb.co/6cMp29gT/Astro-Premier-League-1-2024.png" group-title="Sports",811 Premier League HD (Live Event Only)
 ##http://217.216.110.49:8000/epl1y70
@@ -121,13 +102,6 @@ http://217.216.110.49:8000/epl1p90
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; ZTE A7030 Build/RP1A.201005.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/133.0.6943.121 Mobile Safari/537.36
 https://mt27.aa.astro.com.my/linears2-playback.astro.com.my/vsg/41xjT0SX9LH60ST3ckC23Csfr9vvHMNwd8bnAO6Mvpd4U=Zv_6/dash-wv/jitp-linearwm/2104/default_primary.mpd
 
-@#EXTINF:-1 tvg-id="AstroPremierLeague2" tvg-name="Astro SuperSport 2 HD" ch-number="812" group-title="Sports" tvg-logo="https://i.ibb.co/6cMp29gT/Astro-Premier-League-1-2024.png",812 Premier League 2 HD (Live Event Only)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-##KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Q6yFOCiTGUgC8NNNv3EFng","kid":"TsrZra6PRPCxyL9cSS2mEw"}],"type":"temporary"}
-#KODIPROP:inputstream.adaptive.license_key={"4ecad9adae8f44f0b1c8bf5c492da613":"43ac85382893194802f0d34dbf71059e","537a246e0284449a862dfd4dc43b7c79":"f3829c61a21ceae05ee5d5260679c210"}
-#EXTVLCOPT:http-user-agent=User-Agent: Mozilla/5.0 (Linux; Android 11; Xperia 5 Build/استخدم هذا الرمز للوصول إلى القنوات. احتفظ به آمنًا ولا تشاركه مع أي شخص; wv) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.7.1675.48 Safari/537.36
-https://l82.dp.sooka.my/2104/linear/index.mpd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NzkyMTAwOTYsImlzcyI6IlZSIiwiZXhwIjoxNzc5MjM4ODk2LCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiMzBmMWM1Y2EtODBiYS00ZGNhLThkZDEtOWRkMDU1NWI1ZmNlIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NzIwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiMjEwNCJ9.vTrw1qhbCU38cxG0-Nsq7GleqwyPiIyvw9z1V-aYyVE
-
 #EXTINF:-1 tvg-id="AstroPremierLeague2" tvg-name="Astro SuperSport 2 HD" ch-number="812" group-title="Sports" tvg-logo="https://i.ibb.co/6cMp29gT/Astro-Premier-League-1-2024.png",812 Premier League 2 HD (Live Event Only)
 ##http://217.216.110.49:8000/epl2y70
 http://217.216.110.49:8000/epl2p90
@@ -137,20 +111,6 @@ http://217.216.110.49:8000/epl2p90
 
 
 ##815
-@#EXTINF:-1 tvg-id="AstroBadminton" ch-number="815" group-title="Sports" tvg-logo="https://i.ibb.co/xqPpPGMS/Astro-Badminton-1-2024.png",815 Badminton HD (Live Event Only)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"g3KLRwGavbs3qjbtXylRvQ", "kid":"b/DgQNVE7D8CJDhlmQ8MEA" } ], "type":"temporary" }
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
-https://11d1b8e3842949bcbcf26e20ed80c3d3.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH32-dash/vsg/410XgIxyTLavEmnxZ-w8PdMLTdAxY2DJeBbMAk2nErhv8=LkIn/dash-wv/jitp-dashisowm/5170/default_ott.mpd?aws.sessionId=87f17983-387b-420e-8483-5f3a4a5474ae
-
-@#EXTINF:-1 tvg-id="AstroBadminton" ch-number="815" group-title="Sports" tvg-logo="https://i.ibb.co/xqPpPGMS/Astro-Badminton-1-2024.png",815 Badminton HD (Live Event Only)
-##http://217.216.110.49:8000/badmintony70
-http://217.216.110.49:8000/badmintonp90
-##https://proxy.qeqa.my.id/stream.php?channel=astro_badminton_b&user=0819
-https://cf.perfecttv.net/rwt.m3u8?username=vip_jtomgvsk&password=3ck0XZBg&channel=badminton
-
 #EXTINF:-1 tvg-id="AstroBadminton" ch-number="815" group-title="Sports" tvg-logo="https://i.ibb.co/xqPpPGMS/Astro-Badminton-1-2024.png",815 Badminton HD (Live Event Only)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"User-agent":"Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36"}
@@ -158,19 +118,20 @@ https://cf.perfecttv.net/rwt.m3u8?username=vip_jtomgvsk&password=3ck0XZBg&channe
 #KODIPROP:inputstream.adaptive.license_key=6ff0e040d544ec3f02243865990f0c10:83728b47019abdbb37aa36ed5f2951bd
 https://linears2-playback.astro.com.my/vsg/41jkB121wcOFmSdF9Kn-jKhTOUtjF3aTE2J4OlBNdd1Wg=uq22/dash-wv/jitp-linearwm/5170/default_ott.mpd
 
+@#EXTINF:-1 tvg-id="AstroBadminton" ch-number="815" group-title="Sports" tvg-logo="https://i.ibb.co/xqPpPGMS/Astro-Badminton-1-2024.png",815 Badminton HD (Live Event Only)
+##http://217.216.110.49:8000/badmintony70
+http://217.216.110.49:8000/badmintonp90
+##https://proxy.qeqa.my.id/stream.php?channel=astro_badminton_b&user=0819
+https://cf.perfecttv.net/rwt.m3u8?username=vip_jtomgvsk&password=3ck0XZBg&channel=badminton
+
+
 
 ##810
 #EXTINF:-1 tvg-id="AstroGrandstand" tvg-name="Astro SuperSport 3 HD" ch-number="810" tvg-logo="https://i.ibb.co/TxKff1Kj/Astro-Grandstand-2024.png" group-title="Sports",810 Grandstand HD (Live Event Only)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5be66a6f88efee3d6e30f72a9c58e310:168f3fadfc730ba3dfc932f7c430e27d
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 12 Build/KTR982) AppleWebKit/537.36 (KHTML, like Gecko) like Chrome/39.5733245834 Safari/537.36
-https://linears2-playback.astro.com.my/vsg/41yq4s3xCspVdlyZq-gkyJALG6a6V0zlpHIunKZeQrFsc=iIBI/dash-wv/jitp-linearwm/2701/default_ott.mpd
-
-@#EXTINF:-1 tvg-id="AstroGrandstand" tvg-name="Astro SuperSport 3 HD" ch-number="810" tvg-logo="https://i.ibb.co/TxKff1Kj/Astro-Grandstand-2024.png" group-title="Sports",810 Grandstand HD (Live Event Only)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"66c94fd8908c43ccb5e7b3dd58a990d2":"d489da5a8496d00a04757d432816ab71","505aefcda9084f83bc5c6cc53f0ef9c6":"f89898184ed921e225cd89f4d2ea1035"}
-#EXTVLCOPT:http-user-agent=User-Agent: Mozilla/5.0 (Linux; Android 11; Xperia 5 Build/???? ??? ?? ??.NDQ3NDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiYmE1MzU4YmItNWFmMy00ZmQ3LWFjNTYtOTJjYzYyZWU1MmZhIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9MjE2MCl8fCh0eXBlPT1cImF1ZGlvXCImJmZvdXJDQyE9XCJhYy0zXCIpfHwodHlwZSE9XCJ2aWRlb1wiJiZ0eXBlIT1cImF1ZGlvXCIpIn0.gxDM062SMVsppxHR3qN14BpDeSsTGp1tU2nxC7cPBok; wv) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.7.1675.48 Safari/537.36
-https://l83.dp.sooka.my/2701/linear/index.mpd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NzkyNTc2MzEsImlzcyI6IlZSIiwiZXhwIjoxNzc5MzE2MjAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiMzBmMWM1Y2EtODBiYS00ZGNhLThkZDEtOWRkMDU1NWI1ZmNlIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NzIwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiMjcwMSJ9.fWaeo-ebpGSw14pdE6xQq2zRsKGqj6Df5MLX2hCHb_A
+https://linears2-playback.astro.com.my/vsg/41yq4s3xCspVdlyZq-gkyJANzp8yQbbP22WIBsW-TjkdU=MEqs/dash-wv/jitp-linearwm/2701/default_ott.mpd
 
 @#EXTINF:-1 tvg-id="AstroGrandstand" tvg-name="Astro SuperSport 3 HD" ch-number="810" tvg-logo="https://i.ibb.co/TxKff1Kj/Astro-Grandstand-2024.png" group-title="Sports",810 Grandstand HD (Live Event Only)
 ##http://217.216.110.49:8000/grandy70
